@@ -2,7 +2,7 @@
 
 # WiFi Security Analysis Using Linux CLI, nmcli, and Zeek
 
-This project demonstrates how to perform a **passive WiFi and network security audit** using Linux tools.  
+This project demonstrates how to perform a passive WiFi and network security audit using Linux tools.  
 All data is anonymized, no WiFi passwords are used, and no intrusion methods are involved.  
 Only **broadcast traffic and local logs** are analyzed (fully legal & ethical).
 
